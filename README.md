@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipongkor Roy</h1>
 <h3 align="center">Ethical Hacker | CTF Player | Bug Hunter</h3>
 
-- 🔭 I’m currently working on **Teammatrix Elit Hackers**
+- 🔭 I’m currently working on **Teammatrix Elite Hackers**
 
 - 📫 How to reach me **roydipongkor71@gmail.com**
 
